@@ -112,3 +112,59 @@
   font-size: 24px;
   font-weight: bold;
 }
+
+.digits {
+  margin-bottom: 100px;
+}
+
+.section-title {
+  text-align: center;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.section-subtitle {
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin-bottom: 60px;
+}
+
+.table {
+  display: flex;
+  width: 1100px;
+  margin: auto;
+  list-style: none;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  row-gap: 60px;
+  padding: 0;
+}
+
+.table__cell {
+  width: 250px;
+}
+
+.table__heading {
+  margin: 0;
+  margin-bottom: 20px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.table__text {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.table__text-source {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 0;
+}
