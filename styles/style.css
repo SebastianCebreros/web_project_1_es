@@ -49,7 +49,7 @@
 }
 
 .header__link {
-  color: blue;
+  color: #2f80ed;
   text-decoration: none;
 }
 
@@ -117,7 +117,7 @@
   margin-bottom: 100px;
 }
 
-.section-title {
+.digits__title {
   text-align: center;
   line-height: 1.15;
   font-size: 60px;
@@ -125,7 +125,7 @@
   margin-bottom: 20px;
 }
 
-.section-subtitle {
+.digits__subtitle {
   text-align: center;
   line-height: 34px;
   font-size: 24px;
@@ -167,4 +167,51 @@
   font-size: 18px;
   font-weight: normal;
   margin-bottom: 0;
+}
+
+.feynman {
+  height: 790px;
+  background-color: #f2f2f2;
+  margin-bottom: 100px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.feynman__title {
+  text-align: center;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: bold;
+  width: 775px;
+  z-index: 1;
+  margin-top: 100px;
+  margin-bottom: 70px;
+}
+
+.feynman__subtitle {
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  z-index: 1;
+}
+
+.feynman__link {
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  z-index: 1;
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  color: #2f80ed;
+}
+
+.feynman__ilustration {
+  width: 867px;
+  height: 637px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
