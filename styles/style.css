@@ -287,7 +287,6 @@
 }
 
 .footer {
-  border: 1px solid white;
   background-color: #1f1f1f;
   display: flex;
   min-height: 350px;
@@ -305,7 +304,6 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  border: 1px solid white;
 }
 
 .logo-place-footer {
@@ -319,7 +317,7 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  bottom: 0;
+  margin-bottom: 18px;
 }
 
 .footer__column-heading {
@@ -328,7 +326,6 @@
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 20px;
-  border: 1px solid white;
   margin-top: 0;
 }
 
@@ -342,5 +339,9 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-  border: 1px solid white;
+}
+
+.footer__social-icons {
+  width: 16px;
+  height: 16px;
 }
