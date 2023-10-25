@@ -1,0 +1,9 @@
+.header__square {
+  background-color: #2f80ed;
+  height: 568px;
+  position: absolute;
+  right: 0px;
+  top: 64px;
+  width: 568px;
+  transform: rotate(-15deg);
+}
