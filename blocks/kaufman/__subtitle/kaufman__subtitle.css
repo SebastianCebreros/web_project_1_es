@@ -1,10 +1,8 @@
-.kaufman-subtitle_theme_dark {
-  color: white;
+.kaufman__subtitle {
   font-size: 24px;
   font-weight: normal;
   line-height: 34px;
   margin: auto;
   text-align: center;
   width: 60%;
-  z-index: 1;
 }

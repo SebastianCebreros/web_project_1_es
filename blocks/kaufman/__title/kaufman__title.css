@@ -1,5 +1,4 @@
-.kaufman-title_theme_dark {
-  color: white;
+.kaufman__title {
   font-size: 60px;
   font-weight: bold;
   line-height: 1.15;
@@ -8,5 +7,4 @@
   margin-top: 90px;
   text-align: center;
   width: 60%;
-  z-index: 1;
 }
