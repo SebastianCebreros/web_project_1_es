@@ -9,3 +9,7 @@
   top: 50%;
   z-index: 1;
 }
+
+.feynman__link:hover {
+  color: #00509c;
+}
