@@ -13,8 +13,8 @@
 @import url(../blocks/header/__square/header__square.css);
 
 /* Logo */
-@import url(../blocks/logo/__place/logo__place-header.css);
-@import url(../blocks/logo/__place/logo__place-footer.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
 
 /* Description */
 @import url(../blocks/description/description.css);
@@ -63,13 +63,13 @@
 /* Table */
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);
-@import url(../blocks/table/__cell/table__cell_theme_dark.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__heading/table__heading.css);
-@import url(../blocks/table/__heading/table__heading_theme_dark.css);
+@import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/__text/table__text-source.css);
-@import url(../blocks/table/__text/table__text_theme_dark.css);
-@import url(../blocks/table/__theme_dark/table__theme_dark.css);
+@import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
 
 /* Khan */
 @import url(../blocks/khan/khan.css);
@@ -85,8 +85,8 @@
 
 /* Kaufman */
 @import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/kaufman/__title_theme_dark/kaufman__title_theme_dark.css);
-@import url(../blocks/kaufman/__subtitle_theme_dark/kaufman__subtitle_theme_dark.css);
+@import url(../blocks/kaufman/-title/_theme/kaufman-title_theme_dark.css);
+@import url(../blocks/kaufman/-subtitle/_theme/kaufman-subtitle_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 
 /* Resources */
