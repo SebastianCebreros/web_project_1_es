@@ -13,8 +13,8 @@
 @import url(../blocks/header/__square/header__square.css);
 
 /* Logo */
-@import url(../blocks/Logo/_place/logo__place_header.css);
-@import url(../blocks/Logo/_place/logo__place_footer.css);
+@import url(../blocks/Logo/__place/logo__place_header.css);
+@import url(../blocks/Logo/__place/logo__place_footer.css);
 
 /* Description */
 @import url(../blocks/description/description.css);
