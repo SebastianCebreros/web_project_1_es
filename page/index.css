@@ -102,6 +102,7 @@
 /* Footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__column/footer__column_content_copyright.css);
 @import url(../blocks/footer/__column/footer__column-heading.css);
 @import url(../blocks/footer/__column/footer__column-link.css);
