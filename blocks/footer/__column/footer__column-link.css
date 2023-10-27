@@ -3,5 +3,9 @@
   font-size: 18px;
   font-weight: normal;
   line-height: 30px;
-  list-style: none;
+  text-decoration: none;
+}
+
+.footer__column-link:hover {
+  color: grey;
 }

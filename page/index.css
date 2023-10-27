@@ -29,8 +29,6 @@
 
 /* Techniques*/
 @import url(../blocks/techniques/techniques.css);
-@import url(../blocks/techniques/__title/techniques__title.css);
-@import url(../blocks/techniques/__subtitle/techniques__subtitle.css);
 
 /* Cards */
 @import url(../blocks/cards/cards.css);
@@ -38,6 +36,10 @@
 @import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
+
+/* Section */
+@import url(../blocks/section/-title/section-title.css);
+@import url(../blocks/section/-subtitle/section-subtitle.css);
 
 /* Video */
 @import url(../blocks/video/video.css);
@@ -58,8 +60,6 @@
 
 /* Digits */
 @import url(../blocks/digits/digits.css);
-@import url(../blocks/digits/__title/digits__title.css);
-@import url(../blocks/digits/__subtitle/digits__subtitle.css);
 
 /* Table */
 @import url(../blocks/table/table.css);
@@ -97,6 +97,7 @@
 @import url(../blocks/resources/__title/resources__title.css);
 @import url(../blocks/resources/__subtitle/resources__subtitle.css);
 @import url(../blocks/resources/__logo/resources__logo-zone.css);
+@import url(../blocks/resources/__logo/resources__logo-link.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 
 /* Footer */
