@@ -12,4 +12,5 @@
 
 .feynman__link:hover {
   color: #00509c;
+  transform: translateX(5px);
 }
